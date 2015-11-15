@@ -75,11 +75,11 @@
           <version>2.44.0</version>
         </dependency>
         
-        <dependency>
+        <!--dependency>
           <groupId>com.oracle</groupId>
           <artifactId>ojdbc7</artifactId>
           <version>1.0</version>
-        </dependency>
+        </dependency-->
         
         <dependency>
             <groupId>org.apache.poi</groupId>
